@@ -7,6 +7,7 @@
 두 개의 컴퓨터가 통신이 필요할 때 우리는 다른 컴퓨터와 물리적으로(이더넷 케이블) 또는 무선으로(WiFi, Bluetooth)으로 연결되어야 한다.
 
 ![](https://github.com/ingyeomnote/TIL/blob/main/Internet/images/network_01.png?raw=true)
+
 위의 네트워크는 2대의 컴퓨터로 제한되지 않고 원하는 만큼의 컴퓨터를 연결할 수 있다. 하지만, 10대를 연결한 다고 가정하면 각 컴퓨터끼리 연결할(10*9)/2 = 45개의 케이블이 필요하게 된다. 이를 그물형 접속형태(mesh topology)라고도 한다.
 
 
